@@ -1,9 +1,8 @@
 # Ayu for Zed
 <p align="center">
-  <img width="800" alt="ayuzed" src="https://github.com/user-attachments/assets/fd77bb56-1925-4a2b-bda8-0ba4d82d8cb7" />
+  <img width="800" alt="ayuzed" src="https://github.com/user-attachments/assets/429febee-7701-42a9-8096-75dc28363990" />
 </p>
 A port of the original Ayu family for Zed, including:
-
 
 - Ayu Dark
 - Ayu Mirage
