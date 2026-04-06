@@ -1,4 +1,5 @@
 # Ayu for Zed
+<img width="2182" height="1598" alt="ayuzed" src="https://github.com/user-attachments/assets/3da10aa6-6c8b-4f8e-86fc-7608f5975718" />
 
 A port of the original Ayu family for Zed, including:
 
