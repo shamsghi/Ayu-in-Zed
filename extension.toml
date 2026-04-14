@@ -1,7 +1,7 @@
 id = "ayu-theme"
 name = "Ayu"
 schema_version = 1
-version = "0.2.0"
+version = "1.0.0"
 authors = ["Ayu Theme contributors", "shamsghi"]
 description = "Ayu dark, mirage, OLED, and light theme variants for Zed"
 repository = "https://github.com/shamsghi/Ayu-in-Zed"
