@@ -5,6 +5,9 @@
 A port of the original Ayu family for Zed, including:
 
 - Ayu Dark
+- Ayu OLED
+- Ayu OLED Bordered
+- Ayu Dark Mirage
 - Ayu Mirage
 - Ayu Light
 
