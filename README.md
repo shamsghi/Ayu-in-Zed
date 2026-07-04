@@ -1,15 +1,15 @@
-# Ayu for Zed
+# Ayu Classic for Zed
 <p align="center">
   <img width="800" alt="ayuzed" src="https://github.com/user-attachments/assets/429febee-7701-42a9-8096-75dc28363990" />
 </p>
-A port of the original Ayu family for Zed, including:
+A faithful port of the original Ayu family for Zed, including:
 
-- Ayu Dark
-- Ayu OLED
-- Ayu OLED Bordered
-- Ayu Dark Mirage
-- Ayu Mirage
-- Ayu Light
+- Ayu Classic Dark
+- Ayu Classic OLED
+- Ayu Classic OLED Bordered
+- Ayu Classic Dark Mirage
+- Ayu Classic Mirage
+- Ayu Classic Light
 
 ## Install locally (dev extension)
 

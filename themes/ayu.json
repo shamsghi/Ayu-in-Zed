@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Ayu",
+  "name": "Ayu Classic",
   "author": "Ayu Theme contributors, shamsghi",
   "themes": [
     {
-      "name": "Ayu Dark",
+      "name": "Ayu Classic Dark",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -743,7 +743,7 @@
       }
     },
     {
-      "name": "Ayu OLED",
+      "name": "Ayu Classic OLED",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -1482,7 +1482,7 @@
       }
     },
     {
-      "name": "Ayu OLED Bordered",
+      "name": "Ayu Classic OLED Bordered",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -2221,7 +2221,7 @@
       }
     },
     {
-      "name": "Ayu Dark Mirage",
+      "name": "Ayu Classic Dark Mirage",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -2960,7 +2960,7 @@
       }
     },
     {
-      "name": "Ayu Mirage",
+      "name": "Ayu Classic Mirage",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -3699,7 +3699,7 @@
       }
     },
     {
-      "name": "Ayu Light",
+      "name": "Ayu Classic Light",
       "appearance": "light",
       "style": {
         "accents": [
