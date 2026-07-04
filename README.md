@@ -13,10 +13,12 @@ A port of the original Ayu family for Zed, including:
 
 ## Install locally (dev extension)
 
-1. Open Zed.
-2. Run `zed: install dev extension` from the command palette.
-3. Select this folder.
-4. Run `theme selector: toggle` and choose an Ayu variant.
+1. Download zip from Releases
+2. Unzip it
+3. Open Zed.
+4. Run `zed: install dev extension` from the command palette.
+5. Select the folder.
+6. Run `theme selector: toggle` and choose an Ayu variant.
 
 ## Credits
 
